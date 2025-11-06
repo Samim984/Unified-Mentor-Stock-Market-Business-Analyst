@@ -53,11 +53,11 @@ Focus: Candlestick and Volume visualization by Date & Period
 ✅ Dynamic Return% and color-coded gain/loss indicators
 
 📸 Preview:
-"stock performance" <"![new_page-0001](https://github.com/user-attachments/assets/48fea9bd-0969-4e9f-9def-802f77d42f64)
-" />
+stock performance "![new_page-0001](https://github.com/user-attachments/assets/48fea9bd-0969-4e9f-9def-802f77d42f64)
+"
 
-"stock trend" <"![new (1)_page-0001](https://github.com/user-attachments/assets/e5fa37d2-1b1f-4674-8c0f-0cd1e0c5b0a8)
-" />
+stock trend "![new (1)_page-0001](https://github.com/user-attachments/assets/e5fa37d2-1b1f-4674-8c0f-0cd1e0c5b0a8)
+"
 
 ---
 
@@ -70,8 +70,8 @@ Focus: Financial fundamentals, analyst sentiment, and investment suggestion
 ✅ Automated Decision Flag: “BUY 🟢”, “HOLD 🟡”, “SELL 🔴”
 
 📸 Preview:
-"market sentiment" <"![new (2)_page-0001](https://github.com/user-attachments/assets/424ef1ee-d59b-44fa-8340-537b48ea7812)
-" />
+market sentiment "![new (2)_page-0001](https://github.com/user-attachments/assets/424ef1ee-d59b-44fa-8340-537b48ea7812)
+"
 
 ---
 
